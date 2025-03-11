@@ -1,4 +1,4 @@
-# LGCU 0.1.2
+# LGCU 0.1.4
 
 ## 🆕 New Features
 - Implementation of CUSUM control charts for the Gamma distribution.
